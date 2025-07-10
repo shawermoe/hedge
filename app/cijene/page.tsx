@@ -93,9 +93,9 @@ export default function CijenePage() {
                     Idealno za mala poduzeća i obrtnike
                   </CardDescription>
                   <div className="text-4xl font-bold text-gray-900">
-                    100 €
+                    100€ 
                     <span className="text-lg font-normal text-gray-600">
-                      /mjesečno
+                      / mjesečno
                     </span>
                   </div>
                 </CardHeader>
@@ -152,9 +152,9 @@ export default function CijenePage() {
                     Najbolji izbor za srednja poduzeća
                   </CardDescription>
                   <div className="text-4xl font-bold text-gray-900">
-                    200 €
+                    200€ 
                     <span className="text-lg font-normal text-gray-600">
-                      /mjesečno
+                      / mjesečno
                     </span>
                   </div>
                 </CardHeader>
@@ -211,9 +211,9 @@ export default function CijenePage() {
                     Kompletan servis za veća poduzeća
                   </CardDescription>
                   <div className="text-4xl font-bold text-gray-900">
-                    300 €
+                    300€ 
                     <span className="text-lg font-normal text-gray-600">
-                      /mjesečno
+                      / mjesečno
                     </span>
                   </div>
                 </CardHeader>
@@ -280,7 +280,7 @@ export default function CijenePage() {
                 </CardHeader>
                 <CardContent>
                   <div className="text-2xl font-bold text-blue-600 mb-2">
-                    2.000 kn
+                    400€
                   </div>
                   <CardDescription>Jednokratno</CardDescription>
                 </CardContent>
@@ -293,7 +293,7 @@ export default function CijenePage() {
                 </CardHeader>
                 <CardContent>
                   <div className="text-2xl font-bold text-blue-600 mb-2">
-                    150 kn
+                    20€
                   </div>
                   <CardDescription>Po satu</CardDescription>
                 </CardContent>
@@ -306,7 +306,7 @@ export default function CijenePage() {
                 </CardHeader>
                 <CardContent>
                   <div className="text-2xl font-bold text-blue-600 mb-2">
-                    120 kn
+                    20€
                   </div>
                   <CardDescription>Po satu</CardDescription>
                 </CardContent>
@@ -319,7 +319,7 @@ export default function CijenePage() {
                 </CardHeader>
                 <CardContent>
                   <div className="text-2xl font-bold text-blue-600 mb-2">
-                    400 €
+                    400€
                   </div>
                   <CardDescription>Jednokratno</CardDescription>
                 </CardContent>
